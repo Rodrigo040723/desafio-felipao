@@ -2,7 +2,7 @@
 
 
 let nickname = "Aizen"
-let xp = 7001
+let xp = 4000
 let nivel = "2000"
 
 if (xp <= 1000) {
@@ -23,4 +23,4 @@ if (xp <= 1000) {
   nivel = "Radiante"
 }
 
-console.log("O Herói de nome " + {nickname} + "está no nível de " + {nivel})
+console.log("O Herói de nome " + nickname + "está no nível de " + nivel)
